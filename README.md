@@ -4,7 +4,7 @@
 
  <a href = "mailto:contatoGuiballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/guerra-guilherme"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href ="https://github.com/GuilhermeVoyna"><img src = "https://img.shields.io/github/followers/anamarcacini?label=follow&style=social" target ="_blank"></a>
+<a href ="https://github.com/GuilhermeVoyna"><img src = "https://img.shields.io/github/followers/microsoft?label=follow" target ="_blank"></a>
 
 <em>Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a>
 <img alt="nodejs" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="width:4em; height:4em;">
